@@ -13,8 +13,10 @@ public class Filme {
 
     void avalia(double nota) {
         somaDasAvaliacoes += nota;
-        somaDasAvaliacoes++;
+        totalDeAvalicacoes++;
+    }
 
-
+    double pegaMedia(){
+        return somaDasAvaliacoes / totalDeAvalicacoes;
     }
 }

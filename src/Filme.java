@@ -2,8 +2,8 @@ public class Filme {
     String nome;
     int anoDeLancamento;
     boolean incluidoNoPlano;
-    double somaDasAvaliacoes;
-    int totalDeAvalicacoes;
+    private double somaDasAvaliacoes;
+    private int totalDeAvalicacoes;
     int duracaoEmMinutos;
 
     void exibeFichaTecnica(){

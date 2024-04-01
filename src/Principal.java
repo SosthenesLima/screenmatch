@@ -8,6 +8,8 @@ public class Principal {
         meuFilme.duracaoEmMinutos = 180;
 
 
+
+
         meuFilme.exibeFichaTecnica();
         meuFilme.avalia(8);
         meuFilme.avalia(5);

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Visualizando características privadas01">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Visualizando características privadas02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Filme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,8 @@
       <workItem from="1711763485387" duration="3308000" />
       <workItem from="1711804079702" duration="2410000" />
       <workItem from="1711910125321" duration="885000" />
-      <workItem from="1712009010507" duration="2837000" />
+      <workItem from="1712009010507" duration="5244000" />
+      <workItem from="1712103356315" duration="1054000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -118,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712010160278</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit - Visualizando características privadas02">
+      <option name="closed" value="true" />
+      <created>1712013132946</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712013132946</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +142,7 @@
     <MESSAGE value="Commit-Definindo ações para o filme02" />
     <MESSAGE value="Commit - Configurando o que pode ser visto e modificado" />
     <MESSAGE value="Commit - Visualizando características privadas01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Visualizando características privadas01" />
+    <MESSAGE value="Commit - Visualizando características privadas02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Visualizando características privadas02" />
   </component>
 </project>

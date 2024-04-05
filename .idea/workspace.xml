@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit -Aproveitando o modelo para séries02" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Mesmo nome, comportamentos diferentes01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Serie.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +63,7 @@
       <workItem from="1712009010507" duration="5244000" />
       <workItem from="1712103356315" duration="1970000" />
       <workItem from="1712182785343" duration="2166000" />
+      <workItem from="1712275175419" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -149,7 +153,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712184342265</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit - Mesmo nome, comportamentos diferentes01">
+      <option name="closed" value="true" />
+      <created>1712275424180</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712275424181</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +179,7 @@
     <MESSAGE value="Commit -Criando métodos que modificam valores01" />
     <MESSAGE value="Commit -Aproveitando o modelo para séries01" />
     <MESSAGE value="Commit -Aproveitando o modelo para séries02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit -Aproveitando o modelo para séries02" />
+    <MESSAGE value="Commit - Mesmo nome, comportamentos diferentes01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Mesmo nome, comportamentos diferentes01" />
   </component>
 </project>

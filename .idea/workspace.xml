@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Evitando código duplicado02">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Evitando código duplicado03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/calculos/CalculadoraDeTempo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +63,8 @@
       <workItem from="1712103356315" duration="1970000" />
       <workItem from="1712182785343" duration="2166000" />
       <workItem from="1712275175419" duration="2806000" />
-      <workItem from="1712365063761" duration="3412000" />
+      <workItem from="1712365063761" duration="4003000" />
+      <workItem from="1712416169397" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -195,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712367637828</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit - Evitando código duplicado03">
+      <option name="closed" value="true" />
+      <created>1712369087720</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1712369087720</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +224,7 @@
     <MESSAGE value="Commit - Mesmo nome, comportamentos diferentes02" />
     <MESSAGE value="Commit - Evitando código duplicado01" />
     <MESSAGE value="Commit - Evitando código duplicado02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Evitando código duplicado02" />
+    <MESSAGE value="Commit - Evitando código duplicado03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Evitando código duplicado03" />
   </component>
 </project>

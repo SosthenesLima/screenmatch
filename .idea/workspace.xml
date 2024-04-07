@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Evitando código duplicado03">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Incluindo comportamentos adicionais01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,7 @@
       <workItem from="1712182785343" duration="2166000" />
       <workItem from="1712275175419" duration="2806000" />
       <workItem from="1712365063761" duration="4003000" />
-      <workItem from="1712416169397" duration="613000" />
+      <workItem from="1712416169397" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -202,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712369087720</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Commit - Incluindo comportamentos adicionais01">
+      <option name="closed" value="true" />
+      <created>1712417440205</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712417440205</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +231,7 @@
     <MESSAGE value="Commit - Evitando código duplicado01" />
     <MESSAGE value="Commit - Evitando código duplicado02" />
     <MESSAGE value="Commit - Evitando código duplicado03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Evitando código duplicado03" />
+    <MESSAGE value="Commit - Incluindo comportamentos adicionais01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Incluindo comportamentos adicionais01" />
   </component>
 </project>

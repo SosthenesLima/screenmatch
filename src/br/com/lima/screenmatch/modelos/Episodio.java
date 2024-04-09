@@ -8,6 +8,16 @@ public class Episodio implements Classificavel {
 
     private Serie serie;
 
+    private int totalVisualizacoes;
+
+    public int getTotalVisualizacoes() {
+        return totalVisualizacoes;
+    }
+
+    public void setTotalVisualizacoes(int totalVisualizacoes) {
+        this.totalVisualizacoes = totalVisualizacoes;
+    }
+
     public int getNumero() {
         return numero;
     }
@@ -34,6 +44,11 @@ public class Episodio implements Classificavel {
 
     @Override
     public int getClassificacao() {
-        return 0;
+        if (totalVisualizacoes > 100) {
+            return 4;
+        } else {
+            return 2;
+        }
+
     }
 }

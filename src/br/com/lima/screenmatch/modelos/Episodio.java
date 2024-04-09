@@ -1,6 +1,8 @@
 package br.com.lima.screenmatch.modelos;
 
-public class Episodio {
+import br.com.lima.screenmatch.calculos.Classificavel;
+
+public class Episodio implements Classificavel {
     private int numero;
     private String nome;
 
@@ -28,5 +30,10 @@ public class Episodio {
 
     public void setSerie(Serie serie) {
         this.serie = serie;
+    }
+
+    @Override
+    public int getClassificacao() {
+        return 0;
     }
 }

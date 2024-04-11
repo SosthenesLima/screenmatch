@@ -1,3 +1,10 @@
+/*
+By Sósthenes Oliveira Lima
+11/04/2024
+
+
+ */
+
 import br.com.lima.screenmatch.calculos.CalculadoraDeTempo;
 import br.com.lima.screenmatch.calculos.FiltroRecomendacao;
 import br.com.lima.screenmatch.modelos.Episodio;

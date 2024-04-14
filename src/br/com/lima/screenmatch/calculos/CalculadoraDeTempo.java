@@ -1,3 +1,8 @@
+/*
+  By Sósthenes Oliveira Lima
+
+
+ */
 package br.com.lima.screenmatch.calculos;
 
 import br.com.lima.screenmatch.modelos.Filme;

@@ -1,3 +1,8 @@
+/*
+  By Sóssthenes Oliveira Lima
+
+ */
+
 package br.com.lima.screenmatch.modelos;
 
 import br.com.lima.screenmatch.calculos.Classificavel;

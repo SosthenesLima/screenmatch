@@ -60,6 +60,14 @@ public class Principal {
         episodio.setTotalVisualizacoes(300);
         filtro.filtra(episodio);
 
+        var filmeDoSosthenes =  new Filme();
+        filmeDoSosthenes.setDuracaoEmMinutos(200);
+        filmeDoSosthenes.setNome("Conan - O Barbaro");
+        filmeDoSosthenes.setAnoDeLancamento(1982);
+        filmeDoSosthenes.avalia(10);
+
+
+
 
 
     }

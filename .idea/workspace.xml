@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualização06">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualização07">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Episodio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SosthenesLima"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SosthenesLima&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -91,7 +90,8 @@
       <workItem from="1713228326695" duration="72000" />
       <workItem from="1713309160758" duration="69000" />
       <workItem from="1714218124793" duration="1442000" />
-      <workItem from="1714248997461" duration="2538000" />
+      <workItem from="1714248997461" duration="2569000" />
+      <workItem from="1715036318674" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -333,14 +333,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713309210987</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Commit - Atualização07">
+      <option name="closed" value="true" />
+      <created>1714253092971</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1714253092971</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit-Definindo ações para o filme02" />
     <MESSAGE value="Commit - Configurando o que pode ser visto e modificado" />
     <MESSAGE value="Commit - Visualizando características privadas01" />
     <MESSAGE value="Commit - Visualizando características privadas02" />
@@ -365,6 +372,7 @@
     <MESSAGE value="Commit - Atualização04" />
     <MESSAGE value="Commit - Atualização05" />
     <MESSAGE value="Commit - Atualização06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização06" />
+    <MESSAGE value="Commit - Atualização07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização07" />
   </component>
 </project>

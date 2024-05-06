@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualização07">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Lista de filmes com ArrayList01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,7 @@
       <workItem from="1713309160758" duration="69000" />
       <workItem from="1714218124793" duration="1442000" />
       <workItem from="1714248997461" duration="2569000" />
-      <workItem from="1715036318674" duration="311000" />
+      <workItem from="1715036318674" duration="1592000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -341,14 +342,21 @@
       <option name="project" value="LOCAL" />
       <updated>1714253092971</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Commit - Lista de filmes com ArrayList01">
+      <option name="closed" value="true" />
+      <created>1715036804951</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715036804952</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Configurando o que pode ser visto e modificado" />
     <MESSAGE value="Commit - Visualizando características privadas01" />
     <MESSAGE value="Commit - Visualizando características privadas02" />
     <MESSAGE value="Commit -Criando métodos que modificam valores01" />
@@ -373,6 +381,7 @@
     <MESSAGE value="Commit - Atualização05" />
     <MESSAGE value="Commit - Atualização06" />
     <MESSAGE value="Commit - Atualização07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização07" />
+    <MESSAGE value="Commit - Lista de filmes com ArrayList01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Lista de filmes com ArrayList01" />
   </component>
 </project>

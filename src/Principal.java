@@ -11,6 +11,8 @@ import br.com.lima.screenmatch.modelos.Episodio;
 import br.com.lima.screenmatch.modelos.Filme;
 import br.com.lima.screenmatch.modelos.Serie;
 
+import java.util.ArrayList;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Principal {
@@ -66,8 +68,14 @@ public class Principal {
         filmeDoSosthenes.setAnoDeLancamento(1982);
         filmeDoSosthenes.avalia(10);
 
+        ArrayList<Filme> listaDeFilmes = new ArrayList<>();
+        listaDeFilmes.add(filmeDoSosthenes);
+        listaDeFilmes.add(meuFilme);
+        listaDeFilmes.add(outroFilme);
 
-
+        System.out.println("Tamanho da lista " + listaDeFilmes.size());
+        System.out.println("Primeiro Filme " + listaDeFilmes.get(0).getNome());
+        System.out.println(listaDeFilmes);
 
 
     }

@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Lista de filmes com ArrayList01">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Lista de filmes com ArrayList02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,9 @@
         <option name="url" value="https://github.com/SosthenesLima/screenmatch.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -92,7 +96,8 @@
       <workItem from="1713309160758" duration="69000" />
       <workItem from="1714218124793" duration="1442000" />
       <workItem from="1714248997461" duration="2569000" />
-      <workItem from="1715036318674" duration="1592000" />
+      <workItem from="1715036318674" duration="3800000" />
+      <workItem from="1715079373141" duration="1758000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -350,14 +355,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715036804952</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Commit - Lista de filmes com ArrayList02">
+      <option name="closed" value="true" />
+      <created>1715038011528</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1715038011528</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Visualizando características privadas01" />
     <MESSAGE value="Commit - Visualizando características privadas02" />
     <MESSAGE value="Commit -Criando métodos que modificam valores01" />
     <MESSAGE value="Commit -Aproveitando o modelo para séries01" />
@@ -382,6 +394,7 @@
     <MESSAGE value="Commit - Atualização06" />
     <MESSAGE value="Commit - Atualização07" />
     <MESSAGE value="Commit - Lista de filmes com ArrayList01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Lista de filmes com ArrayList01" />
+    <MESSAGE value="Commit - Lista de filmes com ArrayList02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Lista de filmes com ArrayList02" />
   </component>
 </project>

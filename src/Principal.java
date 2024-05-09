@@ -62,7 +62,7 @@ public class Principal {
         episodio.setTotalVisualizacoes(300);
         filtro.filtra(episodio);
 
-        var filmeDoSosthenes =  new Filme();
+        var filmeDoSosthenes =  new Filme("Rambo");
         filmeDoSosthenes.setDuracaoEmMinutos(200);
         filmeDoSosthenes.setNome("Conan - O Barbaro");
         filmeDoSosthenes.setAnoDeLancamento(1982);
@@ -77,6 +77,8 @@ public class Principal {
         System.out.println("Primeiro Filme " + listaDeFilmes.get(0).getNome());
         System.out.println(listaDeFilmes);
         System.out.println("toString do Filme " + listaDeFilmes.get(0).toString());
+
+
 
 
     }

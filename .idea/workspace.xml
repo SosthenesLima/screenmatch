@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Construindo objetos com valores01">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Construindo objetos com valores02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +100,8 @@
       <workItem from="1715036318674" duration="3800000" />
       <workItem from="1715079373141" duration="2375000" />
       <workItem from="1715220210907" duration="101000" />
-      <workItem from="1715294933839" duration="4320000" />
+      <workItem from="1715294933839" duration="4558000" />
+      <workItem from="1715384302461" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -388,14 +391,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715297666051</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Commit - Construindo objetos com valores02">
+      <option name="closed" value="true" />
+      <created>1715300034178</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1715300034178</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit -Aproveitando o modelo para séries01" />
     <MESSAGE value="Commit -Aproveitando o modelo para séries02" />
     <MESSAGE value="Commit - Mesmo nome, comportamentos diferentes01" />
     <MESSAGE value="Commit - Mesmo nome, comportamentos diferentes02" />
@@ -420,6 +430,7 @@
     <MESSAGE value="Commit - Entendendo a hierarquia de classes e métodos" />
     <MESSAGE value="Commit - Atualização01" />
     <MESSAGE value="Commit - Construindo objetos com valores01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Construindo objetos com valores01" />
+    <MESSAGE value="Commit - Construindo objetos com valores02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Construindo objetos com valores02" />
   </component>
 </project>

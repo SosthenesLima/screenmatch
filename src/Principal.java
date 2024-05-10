@@ -17,8 +17,7 @@ import java.util.ArrayList;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Principal {
     public static void main(String[] args) {
-        Filme meuFilme = new Filme();
-        meuFilme.setNome( "O Poderoso Chefão");
+        Filme meuFilme = new Filme("O Poderoso Chefão");
         meuFilme.setAnoDeLancamento(1970);
         meuFilme.setDuracaoEmMinutos(180);
         System.out.println("Duração do filme: " + meuFilme.getDuracaoEmMinutos());
@@ -42,8 +41,7 @@ public class Principal {
         lost.setMinutosPorEpisodio(50);
         System.out.println("Duração para maratonar Lost: " +lost.getDuracaoEmMinutos());
 
-        Filme outroFilme = new Filme();
-        outroFilme.setNome( "Avatar2");
+        Filme outroFilme = new Filme("Avatar2");
         outroFilme.setAnoDeLancamento(2023);
         outroFilme.setDuracaoEmMinutos(200);
 
@@ -64,7 +62,7 @@ public class Principal {
 
         var filmeDoSosthenes =  new Filme("Rambo");
         filmeDoSosthenes.setDuracaoEmMinutos(200);
-        filmeDoSosthenes.setNome("Conan - O Barbaro");
+        //filmeDoSosthenes.setNome("Conan - O Barbaro");
         filmeDoSosthenes.setAnoDeLancamento(1982);
         filmeDoSosthenes.avalia(10);
 

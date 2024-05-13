@@ -2,6 +2,7 @@ package br.com.lima.screenmatch.principal;
 
 import br.com.lima.screenmatch.modelos.Filme;
 import br.com.lima.screenmatch.modelos.Serie;
+import br.com.lima.screenmatch.modelos.Titulo;
 
 import java.util.ArrayList;
 
@@ -12,10 +13,13 @@ public class PrincipalComListas {
         var filmeDoSosthenes =  new Filme("Rambo", 1982);
         Serie lost = new Serie("Lost", 2000);;
 
-        ArrayList<Filme> lista = new ArrayList<>();
+        ArrayList<Titulo> lista = new ArrayList<>();
         lista.add(filmeDoSosthenes);
         lista.add(meuFilme);
         lista.add(outroFilme);
         lista.add(lost);
+        for(Titulo itens: lista) {
+
+        }
     }
 }

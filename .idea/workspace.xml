@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Definindo outras formas de construir filmes e séries02">
-      <change afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Tipos diferentes de objetos na lista01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,8 @@
       <workItem from="1715220210907" duration="101000" />
       <workItem from="1715294933839" duration="4558000" />
       <workItem from="1715384302461" duration="1564000" />
-      <workItem from="1715469883558" duration="314000" />
+      <workItem from="1715469883558" duration="969000" />
+      <workItem from="1715559395254" duration="426000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -415,14 +415,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715385253830</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Commit - Tipos diferentes de objetos na lista01">
+      <option name="closed" value="true" />
+      <created>1715470238800</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1715470238800</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Mesmo nome, comportamentos diferentes02" />
     <MESSAGE value="Commit - Evitando código duplicado01" />
     <MESSAGE value="Commit - Evitando código duplicado02" />
     <MESSAGE value="Commit - Evitando código duplicado03" />
@@ -447,6 +454,18 @@
     <MESSAGE value="Commit - Construindo objetos com valores02" />
     <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries01" />
     <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Definindo outras formas de construir filmes e séries02" />
+    <MESSAGE value="Commit - Tipos diferentes de objetos na lista01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Tipos diferentes de objetos na lista01" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

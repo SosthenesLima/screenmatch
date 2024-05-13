@@ -12,9 +12,10 @@ public class PrincipalComListas {
         var filmeDoSosthenes =  new Filme("Rambo", 1982);
         Serie lost = new Serie("Lost", 2000);;
 
-        ArrayList<Filme> listaDeFilmes = new ArrayList<>();
-        listaDeFilmes.add(filmeDoSosthenes);
-        listaDeFilmes.add(meuFilme);
-        listaDeFilmes.add(outroFilme);
+        ArrayList<Filme> lista = new ArrayList<>();
+        lista.add(filmeDoSosthenes);
+        lista.add(meuFilme);
+        lista.add(outroFilme);
+        lista.add(lost);
     }
 }

@@ -18,7 +18,8 @@ public class PrincipalComListas {
         lista.add(meuFilme);
         lista.add(outroFilme);
         lista.add(lost);
-        for(Titulo itens: lista) {
+        for(Titulo item: lista) {
+            System.out.println(item.getNome());
 
         }
     }

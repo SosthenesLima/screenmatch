@@ -18,6 +18,7 @@ import java.util.ArrayList;
 public class Principal {
     public static void main(String[] args) {
         Filme meuFilme = new Filme("O Poderoso Chefão", 1970);
+        meuFilme.avalia(9);
         meuFilme.setDuracaoEmMinutos(180);
         System.out.println("Duração do filme: " + meuFilme.getDuracaoEmMinutos());
 
@@ -38,6 +39,7 @@ public class Principal {
         System.out.println("Duração para maratonar Lost: " +lost.getDuracaoEmMinutos());
 
         Filme outroFilme = new Filme("Avatar2", 2023);
+        meuFilme.avalia(6);
         outroFilme.setDuracaoEmMinutos(200);
 
         CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
@@ -56,6 +58,7 @@ public class Principal {
         filtro.filtra(episodio);
 
         var filmeDoSosthenes =  new Filme("Rambo", 1982);
+        meuFilme.avalia(10);
         filmeDoSosthenes.setDuracaoEmMinutos(200);
         filmeDoSosthenes.avalia(10);
 

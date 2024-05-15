@@ -1,3 +1,9 @@
+/*
+  By Sósthenes Oliveira Lima
+   Araguaína-To 14/05/2024
+
+ */
+
 package br.com.lima.screenmatch.principal;
 
 import br.com.lima.screenmatch.modelos.Filme;

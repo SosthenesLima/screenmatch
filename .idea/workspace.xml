@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Tipos diferentes de objetos na lista04">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualização01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +122,7 @@
       <workItem from="1715559395254" duration="644000" />
       <workItem from="1715605337985" duration="2166000" />
       <workItem from="1715736137635" duration="2000" />
+      <workItem from="1715736152379" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -469,7 +468,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715607978177</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Commit - Atualização01">
+      <option name="closed" value="true" />
+      <created>1715736220470</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1715736220470</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +499,6 @@
     <MESSAGE value="Commit - Lista de filmes com ArrayList01" />
     <MESSAGE value="Commit - Lista de filmes com ArrayList02" />
     <MESSAGE value="Commit - Entendendo a hierarquia de classes e métodos" />
-    <MESSAGE value="Commit - Atualização01" />
     <MESSAGE value="Commit - Construindo objetos com valores01" />
     <MESSAGE value="Commit - Construindo objetos com valores02" />
     <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries01" />
@@ -501,14 +507,15 @@
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista02" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista03" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Tipos diferentes de objetos na lista04" />
+    <MESSAGE value="Commit - Atualização01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java</url>
-          <line>15</line>
+          <line>21</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualização01" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualização02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,6 +126,8 @@
       <workItem from="1715605337985" duration="2166000" />
       <workItem from="1715736137635" duration="2000" />
       <workItem from="1715736152379" duration="86000" />
+      <workItem from="1715818482284" duration="156000" />
+      <workItem from="1715900198640" duration="1395000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -476,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715736220470</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Commit - Atualização02">
+      <option name="closed" value="true" />
+      <created>1715818621558</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1715818621558</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +503,6 @@
     <MESSAGE value="Commit - Classificando episódios e filmes02" />
     <MESSAGE value="Commit - Classificando episódios e filmes03" />
     <MESSAGE value="Commit - Classificando episódios e filmes04" />
-    <MESSAGE value="Commit - Atualização02" />
     <MESSAGE value="Commit - Atualização03" />
     <MESSAGE value="Commit - Atualização04" />
     <MESSAGE value="Commit - Atualização05" />
@@ -508,7 +520,8 @@
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista03" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista04" />
     <MESSAGE value="Commit - Atualização01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização01" />
+    <MESSAGE value="Commit - Atualização02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização02" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

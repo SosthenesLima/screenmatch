@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualização02">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualizaçã05">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/calculos/CalculadoraDeTempo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,8 @@
       <workItem from="1715736137635" duration="2000" />
       <workItem from="1715736152379" duration="86000" />
       <workItem from="1715818482284" duration="156000" />
-      <workItem from="1715900198640" duration="1395000" />
+      <workItem from="1715900198640" duration="2082000" />
+      <workItem from="1715998237778" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -489,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715818621558</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Commit - Tipos diferentes de objetos na lista04">
+      <option name="closed" value="true" />
+      <created>1715901668807</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1715901668807</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,10 +527,10 @@
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista01" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista02" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista03" />
-    <MESSAGE value="Commit - Tipos diferentes de objetos na lista04" />
     <MESSAGE value="Commit - Atualização01" />
     <MESSAGE value="Commit - Atualização02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização02" />
+    <MESSAGE value="Commit - Tipos diferentes de objetos na lista04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Tipos diferentes de objetos na lista04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

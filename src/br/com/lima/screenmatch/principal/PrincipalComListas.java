@@ -18,7 +18,6 @@ public class PrincipalComListas {
         Filme outroFilme = new Filme("Avatar2", 2023);
         var filmeDoSosthenes =  new Filme("Rambo", 1982);
         Serie lost = new Serie("Lost", 2000);;
-
         ArrayList<Titulo> lista = new ArrayList<>();
         lista.add(filmeDoSosthenes);
         lista.add(meuFilme);
@@ -26,7 +25,7 @@ public class PrincipalComListas {
         lista.add(lost);
         for(Titulo item: lista) {
             System.out.println(item.getNome());
-            if(item instanceof Filme filme) {
+            if(item instanceof Filme filme && filme.getClassificacao() > 2) {
                 System.out.println("Classificação " + filme.getClassificacao());
             }
 

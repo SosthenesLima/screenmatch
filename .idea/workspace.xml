@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualizaçã06">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Identificando o objeto01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +130,8 @@
       <workItem from="1715900198640" duration="2082000" />
       <workItem from="1715998237778" duration="75000" />
       <workItem from="1715998318629" duration="48000" />
-      <workItem from="1716158857891" duration="356000" />
+      <workItem from="1716158857891" duration="542000" />
+      <workItem from="1716159612661" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="Commit - Inicial">
       <option name="closed" value="true" />
@@ -507,14 +509,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715998354290</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Commit - Identificando o objeto01">
+      <option name="closed" value="true" />
+      <created>1716159386951</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1716159386951</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Incluindo comportamentos adicionais02" />
     <MESSAGE value="Commit - Incluindo comportamentos adicionais03" />
     <MESSAGE value="Commit - Classificando episódios e filmes01" />
     <MESSAGE value="Commit - Classificando episódios e filmes02" />
@@ -539,17 +548,7 @@
     <MESSAGE value="Commit - Atualização02" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista04" />
     <MESSAGE value="Commit - Atualizaçã06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualizaçã06" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Commit - Identificando o objeto01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Identificando o objeto01" />
   </component>
 </project>

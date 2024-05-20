@@ -18,6 +18,8 @@ public class PrincipalComListas {
         Filme outroFilme = new Filme("Avatar2", 2023);
         var filmeDoSosthenes =  new Filme("Rambo", 1982);
         Serie lost = new Serie("Lost", 2000);;
+
+        Filme f1 = filmeDoSosthenes;
         ArrayList<Titulo> lista = new ArrayList<>();
         lista.add(filmeDoSosthenes);
         lista.add(meuFilme);

@@ -30,8 +30,11 @@ public class PrincipalComListas {
             if(item instanceof Filme filme && filme.getClassificacao() > 2) {
                 System.out.println("Classificação " + filme.getClassificacao());
             }
-
-
         }
+
+        ArrayList<String> buscaPorArtista = new ArrayList<>();
+        buscaPorArtista.add("Adam Sandler");
+        buscaPorArtista.add("Paulo");
+        System.out.println(buscaPorArtista);
     }
 }

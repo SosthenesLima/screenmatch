@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Identificando o objeto03">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Atualização06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Episodio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComListas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,15 +133,8 @@
       <workItem from="1716158857891" duration="542000" />
       <workItem from="1716159612661" duration="966000" />
       <workItem from="1716239069821" duration="279000" />
-      <workItem from="1716331565836" duration="1248000" />
-    </task>
-    <task id="LOCAL-00002" summary="Commit - Atribuindo valores ao nosso filme01">
-      <option name="closed" value="true" />
-      <created>1711765316164</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1711765316164</updated>
+      <workItem from="1716331565836" duration="1877000" />
+      <workItem from="1716383289133" duration="298000" />
     </task>
     <task id="LOCAL-00003" summary="Commit - Atribuindo valores ao nosso filme02">
       <option name="closed" value="true" />
@@ -527,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716239335666</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Commit - Atualização06">
+      <option name="closed" value="true" />
+      <created>1716336539154</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1716336539154</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,7 +541,6 @@
     <MESSAGE value="Commit - Atualização03" />
     <MESSAGE value="Commit - Atualização04" />
     <MESSAGE value="Commit - Atualização05" />
-    <MESSAGE value="Commit - Atualização06" />
     <MESSAGE value="Commit - Atualização07" />
     <MESSAGE value="Commit - Lista de filmes com ArrayList01" />
     <MESSAGE value="Commit - Lista de filmes com ArrayList02" />
@@ -559,6 +559,7 @@
     <MESSAGE value="Commit - Identificando o objeto01" />
     <MESSAGE value="Commit - Identificando o objeto02" />
     <MESSAGE value="Commit - Identificando o objeto03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Identificando o objeto03" />
+    <MESSAGE value="Commit - Atualização06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Atualização06" />
   </component>
 </project>

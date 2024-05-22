@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Identificando o objeto02" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Identificando o objeto03">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Episodio.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,14 +132,8 @@
       <workItem from="1715998318629" duration="48000" />
       <workItem from="1716158857891" duration="542000" />
       <workItem from="1716159612661" duration="966000" />
-    </task>
-    <task id="LOCAL-00001" summary="Commit - Inicial">
-      <option name="closed" value="true" />
-      <created>1711763725438</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1711763725438</updated>
+      <workItem from="1716239069821" duration="279000" />
+      <workItem from="1716331565836" duration="1248000" />
     </task>
     <task id="LOCAL-00002" summary="Commit - Atribuindo valores ao nosso filme01">
       <option name="closed" value="true" />
@@ -522,14 +519,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716159970444</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Commit - Identificando o objeto03">
+      <option name="closed" value="true" />
+      <created>1716239335666</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1716239335666</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Classificando episódios e filmes01" />
     <MESSAGE value="Commit - Classificando episódios e filmes02" />
     <MESSAGE value="Commit - Classificando episódios e filmes03" />
     <MESSAGE value="Commit - Classificando episódios e filmes04" />
@@ -554,6 +558,7 @@
     <MESSAGE value="Commit - Atualizaçã06" />
     <MESSAGE value="Commit - Identificando o objeto01" />
     <MESSAGE value="Commit - Identificando o objeto02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Identificando o objeto02" />
+    <MESSAGE value="Commit - Identificando o objeto03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Identificando o objeto03" />
   </component>
 </project>

@@ -11,6 +11,8 @@ import br.com.lima.screenmatch.modelos.Serie;
 import br.com.lima.screenmatch.modelos.Titulo;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
@@ -35,6 +37,14 @@ public class PrincipalComListas {
         ArrayList<String> buscaPorArtista = new ArrayList<>();
         buscaPorArtista.add("Adam Sandler");
         buscaPorArtista.add("Paulo");
+        buscaPorArtista.add("Juliano");
+        buscaPorArtista.add("Alessandro");
+
         System.out.println(buscaPorArtista);
+
+        Collections.sort(buscaPorArtista);
+        System.out.println("Depois da Ordenação");
+        System.out.println(buscaPorArtista);
+
     }
 }

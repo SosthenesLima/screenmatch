@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Ordenando a lista02">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Titulo.java" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Ordenando a lista03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,15 +132,7 @@
       <workItem from="1716239069821" duration="279000" />
       <workItem from="1716331565836" duration="1877000" />
       <workItem from="1716383289133" duration="348000" />
-      <workItem from="1716504056222" duration="1702000" />
-    </task>
-    <task id="LOCAL-00005" summary="Commit-Definindo ações para o filme02">
-      <option name="closed" value="true" />
-      <created>1711805643718</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1711805643718</updated>
+      <workItem from="1716504056222" duration="2019000" />
     </task>
     <task id="LOCAL-00006" summary="Commit - Configurando o que pode ser visto e modificado">
       <option name="closed" value="true" />
@@ -529,14 +518,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716504544103</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Commit - Ordenando a lista03">
+      <option name="closed" value="true" />
+      <created>1716506107336</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1716506107336</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Classificando episódios e filmes04" />
     <MESSAGE value="Commit - Atualização03" />
     <MESSAGE value="Commit - Atualização04" />
     <MESSAGE value="Commit - Atualização05" />
@@ -561,6 +557,7 @@
     <MESSAGE value="Commit - Atualização06" />
     <MESSAGE value="Commit - Ordenando a lista01" />
     <MESSAGE value="Commit - Ordenando a lista02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Ordenando a lista02" />
+    <MESSAGE value="Commit - Ordenando a lista03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Ordenando a lista03" />
   </component>
 </project>

@@ -10,10 +10,7 @@ import br.com.lima.screenmatch.modelos.Filme;
 import br.com.lima.screenmatch.modelos.Serie;
 import br.com.lima.screenmatch.modelos.Titulo;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
+import java.util.*;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
@@ -23,7 +20,7 @@ public class PrincipalComListas {
         Serie lost = new Serie("Lost", 2000);;
 
         Filme f1 = filmeDoSosthenes;
-        ArrayList<Titulo> lista = new ArrayList<>();
+        List<Titulo> lista = new LinkedList<>();
         lista.add(filmeDoSosthenes);
         lista.add(meuFilme);
         lista.add(outroFilme);

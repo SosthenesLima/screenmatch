@@ -1,6 +1,6 @@
 /*
   By Sósthenes Oliveira Lima
-    Atualização
+    Atualização - 27/05/2024
 
  */
 package br.com.lima.screenmatch.calculos;

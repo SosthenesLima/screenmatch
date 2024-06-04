@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service03">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
     </list>
@@ -49,25 +49,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sosthenesoliveiralima/IdeaProjects/screenmatch/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Principal.executor": "Run",
+    "Application.PrincipalComBusca.executor": "Run",
+    "Application.PrincipalComListas.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/sosthenesoliveiralima/IdeaProjects/screenmatch/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.PrincipalComBusca">
+    <configuration name="PrincipalComBusca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.lima.screenmatch.principal.PrincipalComBusca" />
+      <module name="screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.lima.screenmatch.principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrincipalComListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.lima.screenmatch.principal.PrincipalComListas" />
       <module name="screenmatch" />
@@ -83,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.PrincipalComListas" />
       </list>
     </recent_temporary>
@@ -145,15 +160,8 @@
       <workItem from="1717241968136" duration="1211000" />
       <workItem from="1717352638346" duration="13000" />
       <workItem from="1717352655671" duration="1056000" />
-      <workItem from="1717458484430" duration="2487000" />
-    </task>
-    <task id="LOCAL-00014" summary="Commit - Evitando código duplicado01">
-      <option name="closed" value="true" />
-      <created>1712366247014</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1712366247014</updated>
+      <workItem from="1717458484430" duration="2511000" />
+      <workItem from="1717539498026" duration="333000" />
     </task>
     <task id="LOCAL-00015" summary="Commit - Evitando código duplicado02">
       <option name="closed" value="true" />
@@ -539,14 +547,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717460334851</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Commit - Implementando a comunicação com o Web Service04">
+      <option name="closed" value="true" />
+      <created>1717461533025</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1717461533025</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Construindo objetos com valores02" />
     <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries01" />
     <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries02" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista01" />
@@ -571,6 +586,7 @@
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service01" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service02" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service03" />
+    <MESSAGE value="Commit - Implementando a comunicação com o Web Service04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service04" />
   </component>
 </project>

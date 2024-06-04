@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service01" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,14 +144,7 @@
       <workItem from="1717241968136" duration="1211000" />
       <workItem from="1717352638346" duration="13000" />
       <workItem from="1717352655671" duration="1056000" />
-    </task>
-    <task id="LOCAL-00012" summary="Commit - Mesmo nome, comportamentos diferentes01">
-      <option name="closed" value="true" />
-      <created>1712275424180</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1712275424181</updated>
+      <workItem from="1717458484430" duration="1349000" />
     </task>
     <task id="LOCAL-00013" summary="Commit - Mesmo nome, comportamentos diferentes02">
       <option name="closed" value="true" />
@@ -535,14 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717355248400</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Commit - Implementando a comunicação com o Web Service02">
+      <option name="closed" value="true" />
+      <created>1717458621427</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1717458621427</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Entendendo a hierarquia de classes e métodos" />
     <MESSAGE value="Commit - Construindo objetos com valores01" />
     <MESSAGE value="Commit - Construindo objetos com valores02" />
     <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries01" />
@@ -567,6 +569,7 @@
     <MESSAGE value="Commit - Ultima atualização" />
     <MESSAGE value="Commit - Ultima atualização01" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service01" />
+    <MESSAGE value="Commit - Implementando a comunicação com o Web Service02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service02" />
   </component>
 </project>

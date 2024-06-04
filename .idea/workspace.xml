@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service02">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,15 +145,7 @@
       <workItem from="1717241968136" duration="1211000" />
       <workItem from="1717352638346" duration="13000" />
       <workItem from="1717352655671" duration="1056000" />
-      <workItem from="1717458484430" duration="1349000" />
-    </task>
-    <task id="LOCAL-00013" summary="Commit - Mesmo nome, comportamentos diferentes02">
-      <option name="closed" value="true" />
-      <created>1712276885528</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1712276885528</updated>
+      <workItem from="1717458484430" duration="2487000" />
     </task>
     <task id="LOCAL-00014" summary="Commit - Evitando código duplicado01">
       <option name="closed" value="true" />
@@ -538,14 +531,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717458621427</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Commit - Implementando a comunicação com o Web Service03">
+      <option name="closed" value="true" />
+      <created>1717460334851</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1717460334851</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Construindo objetos com valores01" />
     <MESSAGE value="Commit - Construindo objetos com valores02" />
     <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries01" />
     <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries02" />
@@ -570,6 +570,7 @@
     <MESSAGE value="Commit - Ultima atualização01" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service01" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service02" />
+    <MESSAGE value="Commit - Implementando a comunicação com o Web Service03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service03" />
   </component>
 </project>

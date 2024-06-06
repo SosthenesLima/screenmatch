@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service05" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service06" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,25 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Principal.executor": "Run",
-    "Application.PrincipalComBusca.executor": "Run",
-    "Application.PrincipalComListas.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/sosthenesoliveiralima/IdeaProjects/screenmatch/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComBusca.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sosthenesoliveiralima/IdeaProjects/screenmatch/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.PrincipalComBusca">
     <configuration name="PrincipalComBusca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.lima.screenmatch.principal.PrincipalComBusca" />
@@ -159,14 +159,7 @@
       <workItem from="1717352655671" duration="1056000" />
       <workItem from="1717458484430" duration="2511000" />
       <workItem from="1717539498026" duration="1231000" />
-    </task>
-    <task id="LOCAL-00016" summary="Commit - Evitando código duplicado02">
-      <option name="closed" value="true" />
-      <created>1712367637828</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1712367637828</updated>
+      <workItem from="1717633996402" duration="57000" />
     </task>
     <task id="LOCAL-00017" summary="Commit - Evitando código duplicado03">
       <option name="closed" value="true" />
@@ -552,14 +545,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717539836552</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Commit - Implementando a comunicação com o Web Service06">
+      <option name="closed" value="true" />
+      <created>1717634039931</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1717634039932</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Definindo outras formas de construir filmes e séries02" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista01" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista02" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista03" />
@@ -584,6 +584,7 @@
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service03" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service04" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service05" />
+    <MESSAGE value="Commit - Implementando a comunicação com o Web Service06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service06" />
   </component>
 </project>

@@ -1,3 +1,7 @@
+/*
+ By Sósthenes Oliveira Lima
+
+ */
 package br.com.lima.screenmatch.principal;
 
 import java.io.IOException;

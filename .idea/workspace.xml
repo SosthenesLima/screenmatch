@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Implementando a comunicação com o Web Service06" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Refinando a busca por filmes01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,14 +160,7 @@
       <workItem from="1717458484430" duration="2511000" />
       <workItem from="1717539498026" duration="1231000" />
       <workItem from="1717633996402" duration="57000" />
-    </task>
-    <task id="LOCAL-00017" summary="Commit - Evitando código duplicado03">
-      <option name="closed" value="true" />
-      <created>1712369087720</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1712369087720</updated>
+      <workItem from="1717715809602" duration="303000" />
     </task>
     <task id="LOCAL-00018" summary="Commit - Incluindo comportamentos adicionais01">
       <option name="closed" value="true" />
@@ -553,14 +546,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717634039932</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Commit - Refinando a busca por filmes01">
+      <option name="closed" value="true" />
+      <created>1717716086988</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1717716086988</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Tipos diferentes de objetos na lista01" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista02" />
     <MESSAGE value="Commit - Tipos diferentes de objetos na lista03" />
     <MESSAGE value="Commit - Atualização01" />
@@ -585,6 +585,7 @@
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service04" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service05" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Implementando a comunicação com o Web Service06" />
+    <MESSAGE value="Commit - Refinando a busca por filmes01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Refinando a busca por filmes01" />
   </component>
 </project>

@@ -19,9 +19,11 @@ public class PrincipalComBusca {
 
         var busca = leitura.nextLine();
 
+        String endereco = "https://www.omdbapi.com/?t" + busca + "&apikey=e4c92d6d";
+
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
-                .uri(URI.create("https://www.omdbapi.com/?t=Matrix&apikey=e4c92d6d"))
+                .uri(URI.create(endereco))
                 .build();
         HttpResponse<String> response = client
                 .send(request, HttpResponse.BodyHandlers.ofString());

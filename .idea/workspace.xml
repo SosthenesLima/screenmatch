@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Outra estrutura para representar os dados01">
-      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/TituloOmdb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/TituloOmdb.java" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Outra estrutura para representar os dados02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -168,15 +167,7 @@
       <workItem from="1717801534324" duration="49000" />
       <workItem from="1717872344501" duration="3204000" />
       <workItem from="1717977050283" duration="2107000" />
-      <workItem from="1718072176938" duration="310000" />
-    </task>
-    <task id="LOCAL-00024" summary="Commit - Classificando episódios e filmes04">
-      <option name="closed" value="true" />
-      <created>1712750593880</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1712750593880</updated>
+      <workItem from="1718072176938" duration="393000" />
     </task>
     <task id="LOCAL-00025" summary="Commit - Atualização01">
       <option name="closed" value="true" />
@@ -562,14 +553,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718072444792</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Commit - Outra estrutura para representar os dados02">
+      <option name="closed" value="true" />
+      <created>1718072544868</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1718072544868</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Identificando o objeto01" />
     <MESSAGE value="Commit - Identificando o objeto02" />
     <MESSAGE value="Commit - Identificando o objeto03" />
     <MESSAGE value="Commit - Atualização06" />
@@ -594,6 +592,7 @@
     <MESSAGE value="Commit - Transformando dados01" />
     <MESSAGE value="Commit - Transformando dados02" />
     <MESSAGE value="Commit - Outra estrutura para representar os dados01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Outra estrutura para representar os dados01" />
+    <MESSAGE value="Commit - Outra estrutura para representar os dados02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Outra estrutura para representar os dados02" />
   </component>
 </project>

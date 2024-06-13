@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Outra estrutura para representar os dados04" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Outra estrutura para representar os dados05">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,14 +172,7 @@
       <workItem from="1718072176938" duration="393000" />
       <workItem from="1718155396821" duration="138000" />
       <workItem from="1718236765227" duration="54000" />
-    </task>
-    <task id="LOCAL-00027" summary="Commit - Atualização03">
-      <option name="closed" value="true" />
-      <created>1713049555395</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1713049555395</updated>
+      <workItem from="1718309651021" duration="2762000" />
     </task>
     <task id="LOCAL-00028" summary="Commit - Atualização04">
       <option name="closed" value="true" />
@@ -563,14 +558,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718236805899</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Commit - Outra estrutura para representar os dados05">
+      <option name="closed" value="true" />
+      <created>1718309949935</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1718309949935</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Atualização06" />
     <MESSAGE value="Commit - Ordenando a lista01" />
     <MESSAGE value="Commit - Ordenando a lista02" />
     <MESSAGE value="Commit - Ordenando a lista03" />
@@ -595,6 +597,7 @@
     <MESSAGE value="Commit - Outra estrutura para representar os dados02" />
     <MESSAGE value="Commit - Outra estrutura para representar os dados03" />
     <MESSAGE value="Commit - Outra estrutura para representar os dados04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Outra estrutura para representar os dados04" />
+    <MESSAGE value="Commit - Outra estrutura para representar os dados05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Outra estrutura para representar os dados05" />
   </component>
 </project>

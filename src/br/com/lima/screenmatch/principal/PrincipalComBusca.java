@@ -5,6 +5,7 @@
 package br.com.lima.screenmatch.principal;
 
 import br.com.lima.screenmatch.modelos.Titulo;
+import br.com.lima.screenmatch.modelos.TituloOmdb;
 import com.google.gson.Gson;
 
 import java.io.IOException;
@@ -34,7 +35,8 @@ public class PrincipalComBusca {
         System.out.println(json);
 
         Gson  gson = new Gson();
-        Titulo meuTitulo = gson.fromJson(json, Titulo.class);
-        System.out.println(meuTitulo);
+        //Titulo meuTitulo = gson.fromJson(json, Titulo.class);
+        TituloOmdb meuTituloOmdb = gson.fromJson(json, TituloOmdb.class);
+        System.out.println(meuTituloOmdb);
     }
 }

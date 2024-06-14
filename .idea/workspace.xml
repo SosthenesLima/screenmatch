@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Outra estrutura para representar os dados05">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Outra estrutura para representar os dados06">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,15 +173,8 @@
       <workItem from="1718072176938" duration="393000" />
       <workItem from="1718155396821" duration="138000" />
       <workItem from="1718236765227" duration="54000" />
-      <workItem from="1718309651021" duration="2762000" />
-    </task>
-    <task id="LOCAL-00028" summary="Commit - Atualização04">
-      <option name="closed" value="true" />
-      <created>1713136150949</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1713136150949</updated>
+      <workItem from="1718309651021" duration="2782000" />
+      <workItem from="1718367138697" duration="618000" />
     </task>
     <task id="LOCAL-00029" summary="Commit - Atualização05">
       <option name="closed" value="true" />
@@ -566,14 +560,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718309949935</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Commit - Outra estrutura para representar os dados06">
+      <option name="closed" value="true" />
+      <created>1718312442439</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1718312442439</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Ordenando a lista01" />
     <MESSAGE value="Commit - Ordenando a lista02" />
     <MESSAGE value="Commit - Ordenando a lista03" />
     <MESSAGE value="Commit - Definindo outros critérios de ordenação01" />
@@ -598,6 +599,7 @@
     <MESSAGE value="Commit - Outra estrutura para representar os dados03" />
     <MESSAGE value="Commit - Outra estrutura para representar os dados04" />
     <MESSAGE value="Commit - Outra estrutura para representar os dados05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Outra estrutura para representar os dados05" />
+    <MESSAGE value="Commit - Outra estrutura para representar os dados06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Outra estrutura para representar os dados06" />
   </component>
 </project>

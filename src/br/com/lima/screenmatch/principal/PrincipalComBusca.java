@@ -44,13 +44,13 @@ public class PrincipalComBusca {
         System.out.println(meuTituloOmdb);
         try {
             Titulo meuTitulo = new Titulo(meuTituloOmdb);
+            System.out.println("Título já convertido ");
+            System.out.println(meuTitulo);
         } catch (NumberFormatException e) {
             System.out.println("Aconteceu um erro: ");
             System.out.println(e.getMessage());
+
         }
-
-
-        System.out.println("Título já convertido ");
-        System.out.println(meuTitulo);
+        System.out.println("O Programa finalizou corretamente!");
     }
 }

@@ -4,6 +4,7 @@
 
 package br.com.lima.screenmatch.modelos;
 
+import br.com.lima.screenmatch.excecao.ErroDeConvesaoDeAnoException;
 import com.google.gson.annotations.SerializedName;
 
 public class Titulo implements Comparable<Titulo>{
@@ -24,6 +25,10 @@ public class Titulo implements Comparable<Titulo>{
     }
 
     public Titulo(TituloOmdb meuTituloOmdb) {
+
+        if(meuTituloOmdb.year().length() > 4) {
+            throw new ErroDeConvesaoDeAnoException("Não conseguir converter o ano);
+        }
         this.nome = meuTituloOmdb.title();
         this.anoDeLancamento = Integer.valueOf(meuTituloOmdb.year());
         this.duracaoEmMinutos = Integer.valueOf(meuTituloOmdb.runtime().substring(0,2));

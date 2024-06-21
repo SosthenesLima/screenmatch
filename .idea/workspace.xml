@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Criando nossa própria exceção02">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Criando nossa própria exceção03">
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/excecao/ErroDeConvesaoDeAnoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/excecao/ErroDeConvesaoDeAnoException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,14 +186,7 @@
       <workItem from="1718751588472" duration="1666000" />
       <workItem from="1718842947050" duration="940000" />
       <workItem from="1718925387213" duration="609000" />
-    </task>
-    <task id="LOCAL-00037" summary="Commit - Construindo objetos com valores02">
-      <option name="closed" value="true" />
-      <created>1715300034178</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1715300034178</updated>
+      <workItem from="1718932296631" duration="341000" />
     </task>
     <task id="LOCAL-00038" summary="Commit - Definindo outras formas de construir filmes e séries01">
       <option name="closed" value="true" />
@@ -579,14 +572,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718843877600</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Commit - Criando nossa própria exceção03">
+      <option name="closed" value="true" />
+      <created>1718932468010</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1718932468010</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Implementando a comunicação com o Web Service02" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service03" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service04" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service05" />
@@ -611,6 +611,7 @@
     <MESSAGE value="Commit - Identificando erros04" />
     <MESSAGE value="Commit - Criando nossa própria exceção01" />
     <MESSAGE value="Commit - Criando nossa própria exceção02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Criando nossa própria exceção02" />
+    <MESSAGE value="Commit - Criando nossa própria exceção03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Criando nossa própria exceção03" />
   </component>
 </project>

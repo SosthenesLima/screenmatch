@@ -4,6 +4,7 @@
  */
 package br.com.lima.screenmatch.principal;
 
+import br.com.lima.screenmatch.excecao.ErroDeConvesaoDeAnoException;
 import br.com.lima.screenmatch.modelos.Titulo;
 import br.com.lima.screenmatch.modelos.TituloOmdb;
 import com.google.gson.FieldNamingPolicy;
@@ -54,8 +55,8 @@ public class PrincipalComBusca {
 
         } catch (IllegalArgumentException e) {
             System.out.println("Algum erro de Argumento na busca, verifique o endereço");
-        } catch (Exception e) {
-            System.out.println("Aconteceu algo, Não sei o que é");
+        } catch (ErroDeConvesaoDeAnoException e) {
+            System.out.println(e.getMessage());
         }
         System.out.println("O Programa finalizou corretamente!");
     }

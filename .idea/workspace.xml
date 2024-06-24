@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Criando nossa própria exceção05">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Criando nossa própria exceção06" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,14 +186,7 @@
       <workItem from="1718925387213" duration="609000" />
       <workItem from="1718932296631" duration="779000" />
       <workItem from="1719100923018" duration="1403000" />
-    </task>
-    <task id="LOCAL-00040" summary="Commit - Tipos diferentes de objetos na lista01">
-      <option name="closed" value="true" />
-      <created>1715470238800</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1715470238800</updated>
+      <workItem from="1719190529521" duration="164000" />
     </task>
     <task id="LOCAL-00041" summary="Commit - Tipos diferentes de objetos na lista02">
       <option name="closed" value="true" />
@@ -581,14 +572,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719101009230</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Commit - Criando nossa própria exceção06">
+      <option name="closed" value="true" />
+      <created>1719190669780</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1719190669780</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Implementando a comunicação com o Web Service05" />
     <MESSAGE value="Commit - Implementando a comunicação com o Web Service06" />
     <MESSAGE value="Commit - Refinando a busca por filmes01" />
     <MESSAGE value="Commit - Refinando a busca por filmes02" />
@@ -613,6 +611,7 @@
     <MESSAGE value="Commit - Criando nossa própria exceção03" />
     <MESSAGE value="Commit - Criando nossa própria exceção04" />
     <MESSAGE value="Commit - Criando nossa própria exceção05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Criando nossa própria exceção05" />
+    <MESSAGE value="Commit - Criando nossa própria exceção06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Criando nossa própria exceção06" />
   </component>
 </project>

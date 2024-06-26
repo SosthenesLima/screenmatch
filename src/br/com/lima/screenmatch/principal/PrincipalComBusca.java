@@ -54,6 +54,7 @@ public class PrincipalComBusca {
 
             FileWriter escrita = new FileWriter("Filmes.txt");
             escrita.write(meuTitulo.toString());
+            escrita.close();
         } catch (NumberFormatException e) {
             System.out.println("Aconteceu um erro: ");
             System.out.println(e.getMessage());

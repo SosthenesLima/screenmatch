@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Criando nossa própria exceção07">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Gravando dados em um arquivo01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,15 +188,7 @@
       <workItem from="1719100923018" duration="1403000" />
       <workItem from="1719190529521" duration="164000" />
       <workItem from="1719260982518" duration="280000" />
-      <workItem from="1719278090734" duration="301000" />
-    </task>
-    <task id="LOCAL-00042" summary="Commit - Tipos diferentes de objetos na lista03">
-      <option name="closed" value="true" />
-      <created>1715605763759</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1715605763759</updated>
+      <workItem from="1719278090734" duration="346000" />
     </task>
     <task id="LOCAL-00043" summary="Commit - Tipos diferentes de objetos na lista04">
       <option name="closed" value="true" />
@@ -585,14 +574,21 @@
       <option name="project" value="LOCAL" />
       <updated>1719261213259</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Commit - Gravando dados em um arquivo01">
+      <option name="closed" value="true" />
+      <created>1719278426750</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1719278426750</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Refinando a busca por filmes01" />
     <MESSAGE value="Commit - Refinando a busca por filmes02" />
     <MESSAGE value="Commit - Refinando a busca por filmes03" />
     <MESSAGE value="Commit - Refinando a busca por filmes04" />
@@ -617,6 +613,7 @@
     <MESSAGE value="Commit - Criando nossa própria exceção05" />
     <MESSAGE value="Commit - Criando nossa própria exceção06" />
     <MESSAGE value="Commit - Criando nossa própria exceção07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Criando nossa própria exceção07" />
+    <MESSAGE value="Commit - Gravando dados em um arquivo01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Gravando dados em um arquivo01" />
   </component>
 </project>

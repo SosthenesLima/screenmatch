@@ -24,8 +24,13 @@ public class PrincipalComBusca {
     public static void main(String[] args) throws IOException, InterruptedException {
 
         Scanner leitura =  new Scanner(System.in);
+        String busca = "";
+
+        while(!busca.equalsIgnoreCase("sair")){
+
+        }
         System.out.println("Digite um filme para busca: ");
-        var busca = leitura.nextLine();
+        busca = leitura.nextLine();
 
         String endereco = "https://www.omdbapi.com/?t=" + busca.replace(" ", "+") + "&apikey=e4c92d6d";
 

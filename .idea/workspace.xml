@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Gravando dados em um arquivo01" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Gravando dados em um arquivo02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,13 +44,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2eO6sLx5Jd6hZEB4gy4jEtnPXr5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrincipalComBusca.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
@@ -189,14 +194,8 @@
       <workItem from="1719190529521" duration="164000" />
       <workItem from="1719260982518" duration="280000" />
       <workItem from="1719278090734" duration="346000" />
-    </task>
-    <task id="LOCAL-00043" summary="Commit - Tipos diferentes de objetos na lista04">
-      <option name="closed" value="true" />
-      <created>1715607978177</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1715607978177</updated>
+      <workItem from="1719364223702" duration="772000" />
+      <workItem from="1719449943783" duration="358000" />
     </task>
     <task id="LOCAL-00044" summary="Commit - Atualização01">
       <option name="closed" value="true" />
@@ -582,14 +581,22 @@
       <option name="project" value="LOCAL" />
       <updated>1719278426750</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="Commit - Gravando dados em um arquivo02">
+      <option name="closed" value="true" />
+      <created>1719364359519</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1719364359519</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit - Refinando a busca por filmes02" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit - Refinando a busca por filmes03" />
     <MESSAGE value="Commit - Refinando a busca por filmes04" />
     <MESSAGE value="Commit - Transformando dados01" />
@@ -614,6 +621,7 @@
     <MESSAGE value="Commit - Criando nossa própria exceção06" />
     <MESSAGE value="Commit - Criando nossa própria exceção07" />
     <MESSAGE value="Commit - Gravando dados em um arquivo01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Gravando dados em um arquivo01" />
+    <MESSAGE value="Commit - Gravando dados em um arquivo02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Gravando dados em um arquivo02" />
   </component>
 </project>

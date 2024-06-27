@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Gravando dados em um arquivo02">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Escrevendo a lista de filmes em json01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,15 +193,7 @@
       <workItem from="1719260982518" duration="280000" />
       <workItem from="1719278090734" duration="346000" />
       <workItem from="1719364223702" duration="772000" />
-      <workItem from="1719449943783" duration="358000" />
-    </task>
-    <task id="LOCAL-00044" summary="Commit - Atualização01">
-      <option name="closed" value="true" />
-      <created>1715736220470</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1715736220470</updated>
+      <workItem from="1719449943783" duration="603000" />
     </task>
     <task id="LOCAL-00045" summary="Commit - Atualização02">
       <option name="closed" value="true" />
@@ -589,7 +579,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719364359519</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Commit - Escrevendo a lista de filmes em json01">
+      <option name="closed" value="true" />
+      <created>1719450523065</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1719450523065</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +595,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Refinando a busca por filmes03" />
     <MESSAGE value="Commit - Refinando a busca por filmes04" />
     <MESSAGE value="Commit - Transformando dados01" />
     <MESSAGE value="Commit - Transformando dados02" />
@@ -622,6 +619,7 @@
     <MESSAGE value="Commit - Criando nossa própria exceção07" />
     <MESSAGE value="Commit - Gravando dados em um arquivo01" />
     <MESSAGE value="Commit - Gravando dados em um arquivo02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Gravando dados em um arquivo02" />
+    <MESSAGE value="Commit - Escrevendo a lista de filmes em json01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Escrevendo a lista de filmes em json01" />
   </component>
 </project>

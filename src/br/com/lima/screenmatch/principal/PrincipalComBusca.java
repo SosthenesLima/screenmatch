@@ -2,6 +2,7 @@
  By Sósthenes Oliveira Lima
   Atualização 23/07/2024
   nova atualização
+  em viagem para cuririba
  */
 package br.com.lima.screenmatch.principal;
 

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Escrevendo a lista de filmes em json02" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Escrevendo a lista de filmes em json03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,14 +195,7 @@
       <workItem from="1719364223702" duration="772000" />
       <workItem from="1719449943783" duration="603000" />
       <workItem from="1719501007677" duration="148000" />
-    </task>
-    <task id="LOCAL-00046" summary="Commit - Tipos diferentes de objetos na lista04">
-      <option name="closed" value="true" />
-      <created>1715901668807</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1715901668807</updated>
+      <workItem from="1719603453326" duration="62000" />
     </task>
     <task id="LOCAL-00047" summary="Commit - Atualizaçã06">
       <option name="closed" value="true" />
@@ -588,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719501142018</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Commit - Escrevendo a lista de filmes em json03">
+      <option name="closed" value="true" />
+      <created>1719603498565</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1719603498565</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,7 +597,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Transformando dados01" />
     <MESSAGE value="Commit - Transformando dados02" />
     <MESSAGE value="Commit - Outra estrutura para representar os dados01" />
     <MESSAGE value="Commit - Outra estrutura para representar os dados02" />
@@ -621,6 +621,7 @@
     <MESSAGE value="Commit - Gravando dados em um arquivo02" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json01" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json02" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Escrevendo a lista de filmes em json02" />
+    <MESSAGE value="Commit - Escrevendo a lista de filmes em json03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Escrevendo a lista de filmes em json03" />
   </component>
 </project>

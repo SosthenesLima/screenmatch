@@ -21,6 +21,8 @@ import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class PrincipalComBusca {
@@ -28,6 +30,9 @@ public class PrincipalComBusca {
 
         Scanner leitura = new Scanner(System.in);
         String busca = "";
+
+        List<Titulo> Titulos = new ArrayList<>();
+
 
         while (!busca.equalsIgnoreCase("sair")) {
 

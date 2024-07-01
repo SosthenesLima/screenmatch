@@ -69,7 +69,7 @@ public class PrincipalComBusca {
                 System.out.println("Título já convertido ");
                 System.out.println(meuTitulo);
 
-                titulos.add()
+                titulos.add(meuTitulo);
 
                 //FileWriter escrita = new FileWriter("Filmes.txt");
                 //escrita.write(meuTitulo.toString());
@@ -87,7 +87,7 @@ public class PrincipalComBusca {
                 System.out.println(e.getMessage());
             }
 
-
+            System.out.println(titulos);
             System.out.println("O Programa finalizou corretamente!");
 
         }

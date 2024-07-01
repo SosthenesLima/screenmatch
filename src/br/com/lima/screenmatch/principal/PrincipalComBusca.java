@@ -31,7 +31,7 @@ public class PrincipalComBusca {
         Scanner leitura = new Scanner(System.in);
         String busca = "";
 
-        List<Titulo> Titulos = new ArrayList<>();
+        List<Titulo> titulos = new ArrayList<>();
 
 
         while (!busca.equalsIgnoreCase("sair")) {
@@ -69,9 +69,14 @@ public class PrincipalComBusca {
                 System.out.println("Título já convertido ");
                 System.out.println(meuTitulo);
 
-                FileWriter escrita = new FileWriter("Filmes.txt");
-                escrita.write(meuTitulo.toString());
-                escrita.close();
+                titulos.add()
+
+                //FileWriter escrita = new FileWriter("Filmes.txt");
+                //escrita.write(meuTitulo.toString());
+                //escrita.close();
+
+                titulos.add(meuTitulo);
+
             } catch (NumberFormatException e) {
                 System.out.println("Aconteceu um erro: ");
                 System.out.println(e.getMessage());

@@ -93,6 +93,7 @@ public class PrincipalComBusca {
 
             FileWriter escrita = new FileWriter("filmes.json");
             escrita.write(gson.toJson(titulos));
+            escrita.close();
             System.out.println("O Programa finalizou corretamente!");
 
         }

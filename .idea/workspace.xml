@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Escrevendo a lista de filmes em json10">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Escrevendo a lista de filmes em json11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
     </list>
@@ -203,15 +203,8 @@
       <workItem from="1719745360809" duration="192000" />
       <workItem from="1719832989083" duration="1442000" />
       <workItem from="1719917758162" duration="284000" />
-      <workItem from="1720053167640" duration="2545000" />
-    </task>
-    <task id="LOCAL-00054" summary="Commit - Ordenando a lista03">
-      <option name="closed" value="true" />
-      <created>1716506107336</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1716506107336</updated>
+      <workItem from="1720053167640" duration="2688000" />
+      <workItem from="1720143600770" duration="1173000" />
     </task>
     <task id="LOCAL-00055" summary="Commit - Definindo outros critérios de ordenação01">
       <option name="closed" value="true" />
@@ -597,7 +590,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720053295946</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Commit - Escrevendo a lista de filmes em json11">
+      <option name="closed" value="true" />
+      <created>1720059100206</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1720059100206</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +606,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Outra estrutura para representar os dados07" />
     <MESSAGE value="Commit - Outra estrutura para representar os dados08" />
     <MESSAGE value="Commit - Identificando erros01" />
     <MESSAGE value="Commit - Identificando erros02" />
@@ -630,6 +630,7 @@
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json08" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json09" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Escrevendo a lista de filmes em json10" />
+    <MESSAGE value="Commit - Escrevendo a lista de filmes em json11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Escrevendo a lista de filmes em json11" />
   </component>
 </project>

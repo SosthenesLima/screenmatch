@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Finalização do Projeto">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Finalização do Projeto02">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,28 +53,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrincipalComBusca.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sosthenesoliveiralima/IdeaProjects/screenmatch/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Principal.executor": "Run",
+    "Application.PrincipalComBusca.executor": "Run",
+    "Application.PrincipalComListas.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/sosthenesoliveiralima/IdeaProjects/screenmatch/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.lima.screenmatch.excecao" />
@@ -205,14 +208,13 @@
       <workItem from="1720053167640" duration="2688000" />
       <workItem from="1720143600770" duration="1202000" />
       <workItem from="1720184657710" duration="190000" />
-    </task>
-    <task id="LOCAL-00056" summary="Commit - Definindo outros critérios de ordenação02">
-      <option name="closed" value="true" />
-      <created>1716593464969</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1716593464969</updated>
+      <workItem from="1720187380418" duration="137000" />
+      <workItem from="1720213623175" duration="1618000" />
+      <workItem from="1720319568297" duration="5000" />
+      <workItem from="1720659207307" duration="109000" />
+      <workItem from="1720659567340" duration="62000" />
+      <workItem from="1720730098449" duration="417000" />
+      <workItem from="1720730566837" duration="53000" />
     </task>
     <task id="LOCAL-00057" summary="Commit - Utilizando a interface List01">
       <option name="closed" value="true" />
@@ -598,7 +600,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720144999298</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Commit - Finalização do Projeto02">
+      <option name="closed" value="true" />
+      <created>1720187427851</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1720187427851</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -606,7 +616,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Identificando erros01" />
     <MESSAGE value="Commit - Identificando erros02" />
     <MESSAGE value="Commit - Identificando erros03" />
     <MESSAGE value="Commit - Identificando erros04" />
@@ -631,6 +640,7 @@
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json10" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json11" />
     <MESSAGE value="Commit - Finalização do Projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Finalização do Projeto" />
+    <MESSAGE value="Commit - Finalização do Projeto02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Finalização do Projeto02" />
   </component>
 </project>

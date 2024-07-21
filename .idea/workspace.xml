@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste em git" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste em git02" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -212,14 +212,7 @@
       <workItem from="1720730098449" duration="417000" />
       <workItem from="1720730566837" duration="53000" />
       <workItem from="1721345985777" duration="99000" />
-    </task>
-    <task id="LOCAL-00058" summary="Commit - Ultima atualização">
-      <option name="closed" value="true" />
-      <created>1716729296849</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1716729296849</updated>
+      <workItem from="1721431673982" duration="37000" />
     </task>
     <task id="LOCAL-00059" summary="Commit - Ultima atualização01">
       <option name="closed" value="true" />
@@ -605,7 +598,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721346022442</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Commit - Teste em git02">
+      <option name="closed" value="true" />
+      <created>1721431686567</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1721431686568</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +614,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Identificando erros03" />
     <MESSAGE value="Commit - Identificando erros04" />
     <MESSAGE value="Commit - Criando nossa própria exceção01" />
     <MESSAGE value="Commit - Criando nossa própria exceção02" />
@@ -638,6 +638,7 @@
     <MESSAGE value="Commit - Finalização do Projeto" />
     <MESSAGE value="Commit - Finalização do Projeto02" />
     <MESSAGE value="Commit - Teste em git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste em git" />
+    <MESSAGE value="Commit - Teste em git02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste em git02" />
   </component>
 </project>

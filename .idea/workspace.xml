@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste em git04" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste em git05">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,14 +217,9 @@
       <workItem from="1721431673982" duration="37000" />
       <workItem from="1721527822386" duration="441000" />
       <workItem from="1721610353310" duration="35000" />
-    </task>
-    <task id="LOCAL-00061" summary="Commit - Implementando a comunicação com o Web Service02">
-      <option name="closed" value="true" />
-      <created>1717458621427</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1717458621427</updated>
+      <workItem from="1721692652635" duration="634000" />
+      <workItem from="1721843553025" duration="2677000" />
+      <workItem from="1722090865515" duration="7000" />
     </task>
     <task id="LOCAL-00062" summary="Commit - Implementando a comunicação com o Web Service03">
       <option name="closed" value="true" />
@@ -608,7 +605,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721610375418</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Commit - Teste em git05">
+      <option name="closed" value="true" />
+      <created>1721692675832</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1721692675832</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,7 +621,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Criando nossa própria exceção02" />
     <MESSAGE value="Commit - Criando nossa própria exceção03" />
     <MESSAGE value="Commit - Criando nossa própria exceção04" />
     <MESSAGE value="Commit - Criando nossa própria exceção05" />
@@ -641,6 +645,7 @@
     <MESSAGE value="Commit - Teste em git02" />
     <MESSAGE value="Commit - Teste em git03" />
     <MESSAGE value="Commit - Teste em git04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste em git04" />
+    <MESSAGE value="Commit - Teste em git05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste em git05" />
   </component>
 </project>

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste em git05">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -220,14 +218,7 @@
       <workItem from="1721692652635" duration="634000" />
       <workItem from="1721843553025" duration="2677000" />
       <workItem from="1722090865515" duration="7000" />
-    </task>
-    <task id="LOCAL-00062" summary="Commit - Implementando a comunicação com o Web Service03">
-      <option name="closed" value="true" />
-      <created>1717460334851</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1717460334851</updated>
+      <workItem from="1722213460642" duration="723000" />
     </task>
     <task id="LOCAL-00063" summary="Commit - Implementando a comunicação com o Web Service04">
       <option name="closed" value="true" />
@@ -613,7 +604,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721692675832</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Commit - Gitignore">
+      <option name="closed" value="true" />
+      <created>1722213578955</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1722213578955</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,7 +620,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Criando nossa própria exceção03" />
     <MESSAGE value="Commit - Criando nossa própria exceção04" />
     <MESSAGE value="Commit - Criando nossa própria exceção05" />
     <MESSAGE value="Commit - Criando nossa própria exceção06" />
@@ -646,6 +644,7 @@
     <MESSAGE value="Commit - Teste em git03" />
     <MESSAGE value="Commit - Teste em git04" />
     <MESSAGE value="Commit - Teste em git05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste em git05" />
+    <MESSAGE value="Commit - Gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Gitignore" />
   </component>
 </project>

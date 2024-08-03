@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Gitignore" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Gitignore02">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,14 +222,8 @@
       <workItem from="1721843553025" duration="2677000" />
       <workItem from="1722090865515" duration="7000" />
       <workItem from="1722213460642" duration="723000" />
-    </task>
-    <task id="LOCAL-00063" summary="Commit - Implementando a comunicação com o Web Service04">
-      <option name="closed" value="true" />
-      <created>1717461533025</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1717461533025</updated>
+      <workItem from="1722557285766" duration="655000" />
+      <workItem from="1722728206561" duration="28000" />
     </task>
     <task id="LOCAL-00064" summary="Commit - Implementando a comunicação com o Web Service05">
       <option name="closed" value="true" />
@@ -612,7 +609,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722213578955</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Commit - Gitignore02">
+      <option name="closed" value="true" />
+      <created>1722557335107</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1722557335108</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +625,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Criando nossa própria exceção04" />
     <MESSAGE value="Commit - Criando nossa própria exceção05" />
     <MESSAGE value="Commit - Criando nossa própria exceção06" />
     <MESSAGE value="Commit - Criando nossa própria exceção07" />
@@ -645,6 +649,7 @@
     <MESSAGE value="Commit - Teste em git04" />
     <MESSAGE value="Commit - Teste em git05" />
     <MESSAGE value="Commit - Gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Gitignore" />
+    <MESSAGE value="Commit - Gitignore02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Gitignore02" />
   </component>
 </project>

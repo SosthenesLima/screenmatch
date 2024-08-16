@@ -4,6 +4,7 @@
  nova atualização
  última atualização
  Testando
+ novo
  */
 
 package br.com.lima.screenmatch.modelos;
@@ -57,6 +58,5 @@ public class Episodio implements Classificavel {
         } else {
             return 2;
         }
-
     }
 }

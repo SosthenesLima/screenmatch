@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Episodio.java" afterDir="false" />
     </list>
@@ -226,15 +226,9 @@
       <workItem from="1722728206561" duration="639000" />
       <workItem from="1723056202335" duration="497000" />
       <workItem from="1723682269638" duration="113000" />
-      <workItem from="1723772605942" duration="44000" />
-    </task>
-    <task id="LOCAL-00066" summary="Commit - Refinando a busca por filmes01">
-      <option name="closed" value="true" />
-      <created>1717716086988</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1717716086988</updated>
+      <workItem from="1723772605942" duration="659000" />
+      <workItem from="1723815625883" duration="10000" />
+      <workItem from="1724198907299" duration="17000" />
     </task>
     <task id="LOCAL-00067" summary="Commit - Refinando a busca por filmes02">
       <option name="closed" value="true" />
@@ -620,7 +614,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723682314857</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Commit - Teste01">
+      <option name="closed" value="true" />
+      <created>1723772658097</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1723772658097</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,7 +630,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Criando nossa própria exceção07" />
     <MESSAGE value="Commit - Gravando dados em um arquivo01" />
     <MESSAGE value="Commit - Gravando dados em um arquivo02" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json01" />
@@ -653,6 +654,7 @@
     <MESSAGE value="Commit - Gitignore02" />
     <MESSAGE value="Commit - Gitignore03" />
     <MESSAGE value="Commit - Teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste" />
+    <MESSAGE value="Commit - Teste01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste01" />
   </component>
 </project>

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste finalizando" />
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste de conexão">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Filme.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +113,13 @@
         <item itemvalue="Application.PrincipalComListas" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-9b16c6e2" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -228,14 +238,8 @@
       <workItem from="1724198907299" duration="55000" />
       <workItem from="1724890291065" duration="95000" />
       <workItem from="1725061594601" duration="42000" />
-    </task>
-    <task id="LOCAL-00070" summary="Commit - Transformando dados01">
-      <option name="closed" value="true" />
-      <created>1717979478110</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1717979478110</updated>
+      <workItem from="1725322362609" duration="120000" />
+      <workItem from="1725412005792" duration="40000" />
     </task>
     <task id="LOCAL-00071" summary="Commit - Transformando dados02">
       <option name="closed" value="true" />
@@ -621,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725061621326</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Commit - Teste de conexão">
+      <option name="closed" value="true" />
+      <created>1725322389063</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1725322389063</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,7 +641,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Escrevendo a lista de filmes em json02" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json03" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json04" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json05" />
@@ -654,6 +665,7 @@
     <MESSAGE value="Commit - Teste_final" />
     <MESSAGE value="Commit - Teste novo" />
     <MESSAGE value="Commit - Teste finalizando" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste finalizando" />
+    <MESSAGE value="Commit - Teste de conexão" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste de conexão" />
   </component>
 </project>

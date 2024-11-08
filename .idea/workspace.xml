@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste de conexão">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/lima/screenmatch/modelos/Filme.java" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste de conexão2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,15 +236,7 @@
       <workItem from="1724890291065" duration="95000" />
       <workItem from="1725061594601" duration="42000" />
       <workItem from="1725322362609" duration="120000" />
-      <workItem from="1725412005792" duration="40000" />
-    </task>
-    <task id="LOCAL-00071" summary="Commit - Transformando dados02">
-      <option name="closed" value="true" />
-      <created>1717980012805</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1717980012805</updated>
+      <workItem from="1725412005792" duration="133000" />
     </task>
     <task id="LOCAL-00072" summary="Commit - Outra estrutura para representar os dados01">
       <option name="closed" value="true" />
@@ -633,7 +622,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725322389063</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Commit - Teste de conexão2">
+      <option name="closed" value="true" />
+      <created>1725412054920</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1725412054921</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -641,7 +638,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Escrevendo a lista de filmes em json03" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json04" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json05" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json06" />
@@ -666,6 +662,7 @@
     <MESSAGE value="Commit - Teste novo" />
     <MESSAGE value="Commit - Teste finalizando" />
     <MESSAGE value="Commit - Teste de conexão" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste de conexão" />
+    <MESSAGE value="Commit - Teste de conexão2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste de conexão2" />
   </component>
 </project>

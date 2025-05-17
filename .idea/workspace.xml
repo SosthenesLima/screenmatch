@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste de conexão3">
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste de conexão4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;SosthenesLima&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SosthenesLima/screenmatch.git",
-    "accountId": "78742a42-0bd0-4a8c-87c1-34a2839d2287"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SosthenesLima/screenmatch.git&quot;,
+    &quot;accountId&quot;: &quot;78742a42-0bd0-4a8c-87c1-34a2839d2287&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -49,36 +49,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Principal.executor": "Run",
-    "Application.PrincipalComBusca.executor": "Run",
-    "Application.PrincipalComListas.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/sosthenesoliveiralima/IdeaProjects/screenmatch/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComBusca.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sosthenesoliveiralima/IdeaProjects/screenmatch/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="br.com.lima.screenmatch.excecao" />
     </key>
   </component>
   <component name="RunManager" selected="Application.PrincipalComBusca">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="741df178-98ef-4e15-8817-f1d11d5ac45b" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrincipalComBusca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.lima.screenmatch.principal.PrincipalComBusca" />
       <module name="screenmatch" />
@@ -242,14 +272,13 @@
       <workItem from="1731027497362" duration="139000" />
       <workItem from="1731947122136" duration="603000" />
       <workItem from="1740522390331" duration="39000" />
-    </task>
-    <task id="LOCAL-00073" summary="Commit - Outra estrutura para representar os dados02">
-      <option name="closed" value="true" />
-      <created>1718072544868</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1718072544868</updated>
+      <workItem from="1740872098998" duration="30000" />
+      <workItem from="1746223683205" duration="254000" />
+      <workItem from="1746224367045" duration="2224000" />
+      <workItem from="1746227948100" duration="696000" />
+      <workItem from="1746235997732" duration="34000" />
+      <workItem from="1747432716379" duration="3000" />
+      <workItem from="1747432960371" duration="2842000" />
     </task>
     <task id="LOCAL-00074" summary="Commit - Outra estrutura para representar os dados03">
       <option name="closed" value="true" />
@@ -635,7 +664,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731027542748</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="Commit - Teste de conexão4">
+      <option name="closed" value="true" />
+      <created>1740872116635</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1740872116636</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -643,7 +680,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Escrevendo a lista de filmes em json05" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json06" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json07" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json08" />
@@ -668,6 +704,7 @@
     <MESSAGE value="Commit - Teste de conexão" />
     <MESSAGE value="Commit - Teste de conexão2" />
     <MESSAGE value="Commit - Teste de conexão3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste de conexão3" />
+    <MESSAGE value="Commit - Teste de conexão4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste de conexão4" />
   </component>
 </project>

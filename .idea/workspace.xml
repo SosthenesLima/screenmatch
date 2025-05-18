@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste de conexão4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0dbcfaef-ec78-4dd5-88f9-af8eebf225ce" name="Changes" comment="Commit - Teste de conexão5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -279,14 +277,7 @@
       <workItem from="1746235997732" duration="34000" />
       <workItem from="1747432716379" duration="3000" />
       <workItem from="1747432960371" duration="2842000" />
-    </task>
-    <task id="LOCAL-00074" summary="Commit - Outra estrutura para representar os dados03">
-      <option name="closed" value="true" />
-      <created>1718155517552</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1718155517552</updated>
+      <workItem from="1747447012426" duration="32000" />
     </task>
     <task id="LOCAL-00075" summary="Commit - Outra estrutura para representar os dados04">
       <option name="closed" value="true" />
@@ -672,7 +663,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740872116636</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Commit - Teste de conexão5">
+      <option name="closed" value="true" />
+      <created>1747447028984</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1747447028984</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,7 +679,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Commit - Escrevendo a lista de filmes em json06" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json07" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json08" />
     <MESSAGE value="Commit - Escrevendo a lista de filmes em json09" />
@@ -705,6 +703,7 @@
     <MESSAGE value="Commit - Teste de conexão2" />
     <MESSAGE value="Commit - Teste de conexão3" />
     <MESSAGE value="Commit - Teste de conexão4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste de conexão4" />
+    <MESSAGE value="Commit - Teste de conexão5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit - Teste de conexão5" />
   </component>
 </project>
